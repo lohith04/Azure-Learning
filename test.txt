@@ -3,14 +3,13 @@ Testing Push Commands!
 Testing Pull Commands!
 Testing Pull Commands again!
 
-Played a key role in analyzing and extracting customer insights from global data sources, utilizing Big Data tools to efficiently process structured and unstructured data for analytics.
-Worked extensively with Hadoop stack technologies including Pig, Hive, HBase, and Sqoop to enable seamless data processing and integration across distributed systems.
-Integrated web server log data into HDFS using Flume, ensuring reliable and efficient data collection from diverse sources.
-Designed and implemented user-defined functions (UDFs) for Hive and Pig to provide custom processing capabilities across various application teams.
-Implemented performance tuning techniques for Hive and Pig queries to optimize processing times and improve data processing efficiency.
-Developed PIG Latin scripts to extract data from web server logs and efficiently load it into HDFS, ensuring smooth ingestion of large-scale unstructured data.
-Worked with Hive External Tables, enabling the loading and querying of data in HDFS using HQL for advanced data analytics and reporting.
-Leveraged Impala to expose processed data for further analytics, transforming analytical files into more accessible formats for downstream analysis.
-Utilized Sqoop to import and export data between Oracle and DB2 databases and HDFS, enabling efficient data transfer between relational and big data systems.
-Contributed to test-driven development (TDD) and continuous integration (CI) by developing test scripts to ensure high-quality, reliable code and efficient deployment cycles.
-Environment: HDFS, Java, MapReduce, Pig, Hive, Impala, HBase, Oozie, Sqoop, Flume, Linux.
+The primary goal was to derive customer insights from global sources and diverse applications by efficiently and reliably analyzing both structured and unstructured data.
+Analyzed the Hadoop ecosystem and various big data tools, including Pig, Hive, HBase, and Sqoop.
+Managed data import/export between Oracle, DB2, and HDFS using Sqoop.
+Designed and developed user-defined functions to extend Hive and Pig capabilities for cross-application teams.
+Created Hive external tables, loaded data, and queried it using HQL.
+Collected web server log data and integrated it into HDFS using Flume.
+Utilized Impala to expose data for analysis and convert analytical formats into text files.
+Developed test scripts to support test-driven development and continuous integration.
+Tuned the performance of Hive and Pig queries.
+Worked within an Agile/SCRUM software development environment.
